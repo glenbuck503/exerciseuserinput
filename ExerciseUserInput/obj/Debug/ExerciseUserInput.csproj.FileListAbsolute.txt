@@ -1,0 +1,7 @@
+C:\Users\glenb\Documents\Visual Studio 2017\Projects\Csharp\ExerciseUserInput\ExerciseUserInput\bin\Debug\ExerciseUserInput.exe.config
+C:\Users\glenb\Documents\Visual Studio 2017\Projects\Csharp\ExerciseUserInput\ExerciseUserInput\bin\Debug\ExerciseUserInput.exe
+C:\Users\glenb\Documents\Visual Studio 2017\Projects\Csharp\ExerciseUserInput\ExerciseUserInput\bin\Debug\ExerciseUserInput.pdb
+C:\Users\glenb\Documents\Visual Studio 2017\Projects\Csharp\ExerciseUserInput\ExerciseUserInput\obj\Debug\ExerciseUserInput.csprojAssemblyReference.cache
+C:\Users\glenb\Documents\Visual Studio 2017\Projects\Csharp\ExerciseUserInput\ExerciseUserInput\obj\Debug\ExerciseUserInput.csproj.CoreCompileInputs.cache
+C:\Users\glenb\Documents\Visual Studio 2017\Projects\Csharp\ExerciseUserInput\ExerciseUserInput\obj\Debug\ExerciseUserInput.exe
+C:\Users\glenb\Documents\Visual Studio 2017\Projects\Csharp\ExerciseUserInput\ExerciseUserInput\obj\Debug\ExerciseUserInput.pdb
